@@ -36,13 +36,13 @@ An AI-powered web application that analyzes resumes and compares them with job d
 
 ### 🟢 Upload Resume UI
 
-![Upload UI](/upload-ui.png)
+![Upload UI](images/upload-ui.png)
 
 ---
 
 ### 🔵 Analysis Result UI
 
-![Result UI](/result-ui.png)
+![Result UI](images/result-ui.png)
 
 ---
 
